@@ -1,1 +1,1 @@
-print("Niggas be trippin'"
+print("Niggas be trippin'")
